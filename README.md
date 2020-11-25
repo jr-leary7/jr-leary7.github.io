@@ -23,7 +23,7 @@ Python - intermediate
 
 Bash - intermediate
 
-DB2 SQl & MySQL - beginner 
+DB2 SQL & MySQL - beginner 
 
 SAS - beginner
 
