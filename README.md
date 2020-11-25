@@ -3,6 +3,15 @@ This is some placeholder text that I'm only writing because I was bored of seein
 
 I like biostats and boats.
 
+# Reminders
+For some reason the process for pushing to this repository is different from what I typically do. I need to use: 
+
+```
+git push origin main
+```
+
+I'm putting this here so that I don't forget and run `git push origin master` again then wonder why it isn't working.
+
 
 ### Jekyll Themes
 
