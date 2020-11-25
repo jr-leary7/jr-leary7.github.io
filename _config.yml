@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: Jack Leary - Biostatistician in Training
-description: | 
-  * M.S. Biostatistics - UF - in progress 
+description:  
+  - M.S. Biostatistics - UF - in progress 
 
-  * A.S. Statistics - UNC Chapel Hill - May 2020
+  - B.S. Statistics - UNC Chapel Hill - May 2020
