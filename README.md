@@ -12,18 +12,18 @@ I'm also a huge proponent of [\#reproducibleresearch](https://twitter.com/search
 
 
 ## Professional 
-I feel like I've focused a lot on my academic career, but I also do work 9-5 at Florida Blue in healthcare analytics as of July 2020. I've enjoyed learning about the US healthcare system from an insurer's perspective, and have been able to expand my competencies with Python and SQL. With respect to healthcare, I'm interested in equity & access disparities, preventative care, and hepatitis C therapies. 
+I feel like I've focused a lot on my academic career, but I also do work 9-5 at Florida Blue in healthcare analytics as of July 2020. I've enjoyed learning about the US healthcare system, and have been able to expand my competencies with Python and SQL. With respect to healthcare, I'm interested in equity & access disparities, the improvment of care delivery using classical statistical models, and population health. 
 
 # Competencies
 ## Languages 
 
-R - advanced
+R/RMarkdown - advanced
 
 Python - intermediate
 
 Bash - intermediate
 
-DB2 SQL & MySQL - beginner 
+SQL - intermediate 
 
 SAS - beginner
 
